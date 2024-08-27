@@ -5,17 +5,6 @@ Blobscription is a cutting-edge NFT marketplace that allows users to create, ins
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Running the Project](#running-the-project)
-  - [Building for Production](#building-for-production)
-  - [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
